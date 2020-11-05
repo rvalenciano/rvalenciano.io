@@ -1,0 +1,20 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rvalencianoapp-prod-63441-authRole",
+      "UnauthRoleArn": "arn:aws:iam::682840546776:role/amplify-rvalencianoapp-prod-63441-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::682840546776:role/amplify-rvalencianoapp-prod-63441-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rvalencianoapp-prod-63441-deployment",
+      "UnauthRoleName": "amplify-rvalencianoapp-prod-63441-unauthRole",
+      "StackName": "amplify-rvalencianoapp-prod-63441",
+      "StackId": "arn:aws:cloudformation:us-east-1:682840546776:stack/amplify-rvalencianoapp-prod-63441/48754380-1f63-11eb-9002-0e4dccb471bf",
+      "AmplifyAppId": "d2ijc59pl1oa08"
+    },
+    "categories": {
+      "auth": {
+        "rvalencianoapp0c66da3a": {}
+      }
+    }
+  }
+}

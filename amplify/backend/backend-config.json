@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "rvalencianoapp0c66da3a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
